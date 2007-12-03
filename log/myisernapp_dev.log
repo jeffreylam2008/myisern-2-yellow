@@ -1,0 +1,311 @@
+Dec 01 10:35:14 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "C:\xampp\apache\bin\php.ini")
+Dec 01 10:35:14 symfony [info] {sfRouting} connect "/"
+Dec 01 10:35:14 symfony [info] {sfRouting} connect "/symfony/:action/*"
+Dec 01 10:35:14 symfony [info] {sfRouting} connect "/:module"
+Dec 01 10:35:14 symfony [info] {sfRouting} connect "/:module/:action/*"
+Dec 01 10:35:14 symfony [info] {sfContext} initialization
+Dec 01 10:35:14 symfony [info] {sfController} initialization
+Dec 01 10:35:14 symfony [info] {sfRouting} match route [homepage] "/"
+Dec 01 10:35:14 symfony [info] {sfRequest} request parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 01 10:35:14 symfony [info] {sfUser} automatic user logout
+Dec 01 10:35:14 symfony [info] {sfUser} user is not authenticated
+Dec 01 10:35:14 symfony [info] {sfController} dispatch request
+Dec 01 10:35:14 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Dec 01 10:35:14 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Dec 01 10:35:14 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Dec 01 10:35:14 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Dec 01 10:35:14 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Dec 01 10:35:14 symfony [info] {sfAction} call "defaultActions->executeIndex()"
+Dec 01 10:35:14 symfony [info] {sfView} initialize view for "default/index"
+Dec 01 10:35:14 symfony [info] {sfView} render "C:\php5\pear\data/symfony/modules/default/templates/indexSuccess.php"
+Dec 01 10:35:14 symfony [info] {sfView} decorate content with "C:\php5\pear\data/symfony/modules/default/templates/defaultLayout.php"
+Dec 01 10:35:14 symfony [info] {sfView} render "C:\php5\pear\data/symfony/modules/default/templates/defaultLayout.php"
+Dec 01 10:35:14 symfony [info] {sfFilter} render to client
+Dec 01 10:35:14 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Dec 01 10:35:14 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Dec 01 10:35:14 symfony [info] {sfResponse} send content (23932 o)
+Dec 01 10:35:14 symfony [info] {sfTimerManager} Configuration 178.28 ms (10)
+Dec 01 10:35:14 symfony [info] {sfTimerManager} Action "default/index" 0.16 ms (1)
+Dec 01 10:35:14 symfony [info] {sfTimerManager} View "Success" for "default/index" 69.99 ms (1)
+Dec 01 10:59:44 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "C:\xampp\apache\bin\php.ini")
+Dec 01 10:59:44 symfony [info] {sfContext} initialization
+Dec 01 10:59:44 symfony [info] {sfController} initialization
+Dec 01 10:59:44 symfony [info] {sfRouting} match route [homepage] "/"
+Dec 01 10:59:44 symfony [info] {sfRequest} request parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 01 10:59:44 symfony [info] {sfController} dispatch request
+Dec 01 10:59:44 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Dec 01 10:59:44 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Dec 01 10:59:44 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Dec 01 10:59:44 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Dec 01 10:59:44 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Dec 01 10:59:44 symfony [info] {sfAction} call "defaultActions->executeIndex()"
+Dec 01 10:59:44 symfony [info] {sfView} initialize view for "default/index"
+Dec 01 10:59:44 symfony [info] {sfView} render "C:\php5\pear\data/symfony/modules/default/templates/indexSuccess.php"
+Dec 01 10:59:44 symfony [info] {sfView} decorate content with "C:\php5\pear\data/symfony/modules/default/templates/defaultLayout.php"
+Dec 01 10:59:44 symfony [info] {sfView} render "C:\php5\pear\data/symfony/modules/default/templates/defaultLayout.php"
+Dec 01 10:59:44 symfony [info] {sfFilter} render to client
+Dec 01 10:59:44 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Dec 01 10:59:44 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Dec 01 10:59:44 symfony [info] {sfResponse} send content (22279 o)
+Dec 01 10:59:44 symfony [info] {sfTimerManager} Configuration 54.86 ms (11)
+Dec 01 10:59:44 symfony [info] {sfTimerManager} Action "default/index" 0.15 ms (1)
+Dec 01 10:59:44 symfony [info] {sfTimerManager} View "Success" for "default/index" 43.77 ms (1)
+Dec 01 10:59:50 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "C:\xampp\apache\bin\php.ini")
+Dec 01 10:59:50 symfony [info] {sfContext} initialization
+Dec 01 10:59:50 symfony [info] {sfController} initialization
+Dec 01 10:59:50 symfony [info] {sfRouting} match route [homepage] "/"
+Dec 01 10:59:50 symfony [info] {sfRequest} request parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 01 10:59:50 symfony [info] {sfController} dispatch request
+Dec 01 10:59:50 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Dec 01 10:59:50 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Dec 01 10:59:50 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Dec 01 10:59:50 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Dec 01 10:59:50 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Dec 01 10:59:50 symfony [info] {sfAction} call "defaultActions->executeIndex()"
+Dec 01 10:59:50 symfony [info] {sfView} initialize view for "default/index"
+Dec 01 10:59:50 symfony [info] {sfView} render "C:\php5\pear\data/symfony/modules/default/templates/indexSuccess.php"
+Dec 01 10:59:50 symfony [info] {sfView} decorate content with "C:\php5\pear\data/symfony/modules/default/templates/defaultLayout.php"
+Dec 01 10:59:50 symfony [info] {sfView} render "C:\php5\pear\data/symfony/modules/default/templates/defaultLayout.php"
+Dec 01 10:59:50 symfony [info] {sfFilter} render to client
+Dec 01 10:59:50 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Dec 01 10:59:50 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Dec 01 10:59:50 symfony [info] {sfResponse} send content (22279 o)
+Dec 01 10:59:50 symfony [info] {sfTimerManager} Configuration 37.89 ms (11)
+Dec 01 10:59:50 symfony [info] {sfTimerManager} Action "default/index" 0.16 ms (1)
+Dec 01 10:59:50 symfony [info] {sfTimerManager} View "Success" for "default/index" 33.97 ms (1)
+Dec 01 11:14:08 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "C:\xampp\apache\bin\php.ini")
+Dec 01 11:14:09 symfony [info] {sfContext} initialization
+Dec 01 11:14:09 symfony [info] {sfController} initialization
+Dec 01 11:14:09 symfony [info] {sfRouting} match route [homepage] "/"
+Dec 01 11:14:09 symfony [info] {sfRequest} request parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 01 11:14:09 symfony [info] {sfController} dispatch request
+Dec 01 11:14:09 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Dec 01 11:14:09 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Dec 01 11:14:09 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Dec 01 11:14:09 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Dec 01 11:14:09 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Dec 01 11:14:09 symfony [info] {sfAction} call "defaultActions->executeIndex()"
+Dec 01 11:14:09 symfony [info] {sfView} initialize view for "default/index"
+Dec 01 11:14:09 symfony [info] {sfView} render "C:\php5\pear\data/symfony/modules/default/templates/indexSuccess.php"
+Dec 01 11:14:09 symfony [info] {sfView} decorate content with "C:\php5\pear\data/symfony/modules/default/templates/defaultLayout.php"
+Dec 01 11:14:09 symfony [info] {sfView} render "C:\php5\pear\data/symfony/modules/default/templates/defaultLayout.php"
+Dec 01 11:14:09 symfony [info] {sfFilter} render to client
+Dec 01 11:14:09 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Dec 01 11:14:09 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Dec 01 11:14:09 symfony [info] {sfResponse} send content (22280 o)
+Dec 01 11:14:09 symfony [info] {sfTimerManager} Configuration 59.93 ms (11)
+Dec 01 11:14:09 symfony [info] {sfTimerManager} Action "default/index" 0.16 ms (1)
+Dec 01 11:14:09 symfony [info] {sfTimerManager} View "Success" for "default/index" 127.41 ms (1)
+Dec 01 11:27:32 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "C:\xampp\apache\bin\php.ini")
+Dec 01 11:27:32 symfony [info] {sfContext} initialization
+Dec 01 11:27:32 symfony [info] {sfController} initialization
+Dec 01 11:27:32 symfony [info] {sfRouting} match route [homepage] "/"
+Dec 01 11:27:32 symfony [info] {sfRequest} request parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 01 11:27:32 symfony [info] {sfController} dispatch request
+Dec 01 11:27:32 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Dec 01 11:27:32 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Dec 01 11:27:32 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Dec 01 11:27:32 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Dec 01 11:27:32 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Dec 01 11:27:32 symfony [info] {sfAction} call "defaultActions->executeIndex()"
+Dec 01 11:27:32 symfony [info] {sfView} initialize view for "default/index"
+Dec 01 11:27:32 symfony [info] {sfView} render "C:\php5\pear\data/symfony/modules/default/templates/indexSuccess.php"
+Dec 01 11:27:32 symfony [info] {sfView} decorate content with "C:\php5\pear\data/symfony/modules/default/templates/defaultLayout.php"
+Dec 01 11:27:32 symfony [info] {sfView} render "C:\php5\pear\data/symfony/modules/default/templates/defaultLayout.php"
+Dec 01 11:27:32 symfony [info] {sfFilter} render to client
+Dec 01 11:27:32 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Dec 01 11:27:32 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Dec 01 11:27:32 symfony [info] {sfResponse} send content (22279 o)
+Dec 01 11:27:32 symfony [info] {sfTimerManager} Configuration 58.31 ms (11)
+Dec 01 11:27:32 symfony [info] {sfTimerManager} Action "default/index" 0.51 ms (1)
+Dec 01 11:27:32 symfony [info] {sfTimerManager} View "Success" for "default/index" 46.33 ms (1)
+Dec 01 11:50:20 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "C:\xampp\apache\bin\php.ini")
+Dec 01 11:50:20 symfony [info] {sfContext} initialization
+Dec 01 11:50:20 symfony [info] {sfController} initialization
+Dec 01 11:50:20 symfony [info] {sfRouting} match route [homepage] "/"
+Dec 01 11:50:20 symfony [info] {sfRequest} request parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 01 11:50:20 symfony [info] {sfController} dispatch request
+Dec 01 11:50:20 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Dec 01 11:50:20 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Dec 01 11:50:20 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Dec 01 11:50:20 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Dec 01 11:50:20 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Dec 01 11:50:20 symfony [info] {sfAction} call "defaultActions->executeIndex()"
+Dec 01 11:50:20 symfony [info] {sfView} initialize view for "default/index"
+Dec 01 11:50:20 symfony [info] {sfView} render "C:\php5\pear\data/symfony/modules/default/templates/indexSuccess.php"
+Dec 01 11:50:20 symfony [info] {sfView} decorate content with "C:\php5\pear\data/symfony/modules/default/templates/defaultLayout.php"
+Dec 01 11:50:20 symfony [info] {sfView} render "C:\php5\pear\data/symfony/modules/default/templates/defaultLayout.php"
+Dec 01 11:50:20 symfony [info] {sfFilter} render to client
+Dec 01 11:50:20 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Dec 01 11:50:20 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Dec 01 11:50:20 symfony [info] {sfResponse} send content (22279 o)
+Dec 01 11:50:20 symfony [info] {sfTimerManager} Configuration 65.52 ms (11)
+Dec 01 11:50:20 symfony [info] {sfTimerManager} Action "default/index" 0.15 ms (1)
+Dec 01 11:50:20 symfony [info] {sfTimerManager} View "Success" for "default/index" 47.26 ms (1)
+Dec 01 13:41:53 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "C:\xampp\apache\bin\php.ini")
+Dec 01 13:41:53 symfony [info] {sfRouting} connect "/"
+Dec 01 13:41:53 symfony [info] {sfRouting} connect "/symfony/:action/*"
+Dec 01 13:41:53 symfony [info] {sfRouting} connect "/:module"
+Dec 01 13:41:53 symfony [info] {sfRouting} connect "/:module/:action/*"
+Dec 01 13:41:53 symfony [info] {sfContext} initialization
+Dec 01 13:41:53 symfony [info] {sfController} initialization
+Dec 01 13:41:53 symfony [info] {sfRouting} match route [homepage] "/"
+Dec 01 13:41:53 symfony [info] {sfRequest} request parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 01 13:41:53 symfony [info] {sfUser} automatic user logout
+Dec 01 13:41:53 symfony [info] {sfUser} user is not authenticated
+Dec 01 13:41:53 symfony [info] {sfController} dispatch request
+Dec 01 13:41:54 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Dec 01 13:41:54 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Dec 01 13:41:54 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Dec 01 13:41:54 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Dec 01 13:41:54 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Dec 01 13:41:54 symfony [info] {sfAction} call "defaultActions->executeIndex()"
+Dec 01 13:41:54 symfony [info] {sfView} initialize view for "default/index"
+Dec 01 13:41:54 symfony [info] {sfView} render "C:\php5\pear\data/symfony/modules/default/templates/indexSuccess.php"
+Dec 01 13:41:54 symfony [info] {sfView} decorate content with "C:\php5\pear\data/symfony/modules/default/templates/defaultLayout.php"
+Dec 01 13:41:54 symfony [info] {sfView} render "C:\php5\pear\data/symfony/modules/default/templates/defaultLayout.php"
+Dec 01 13:41:54 symfony [info] {sfFilter} render to client
+Dec 01 13:41:54 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Dec 01 13:41:54 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Dec 01 13:41:54 symfony [info] {sfResponse} send content (23931 o)
+Dec 01 13:41:54 symfony [info] {sfTimerManager} Configuration 308.94 ms (12)
+Dec 01 13:41:54 symfony [info] {sfTimerManager} Action "default/index" 0.82 ms (1)
+Dec 01 13:41:54 symfony [info] {sfTimerManager} View "Success" for "default/index" 45.63 ms (1)
+Dec 01 14:15:51 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "C:\xampp\apache\bin\php.ini")
+Dec 01 14:15:51 symfony [info] {sfContext} initialization
+Dec 01 14:15:51 symfony [info] {sfController} initialization
+Dec 01 14:15:51 symfony [info] {sfRouting} match route [homepage] "/"
+Dec 01 14:15:51 symfony [info] {sfRequest} request parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 01 14:15:51 symfony [info] {sfController} dispatch request
+Dec 01 14:15:52 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Dec 01 14:15:52 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Dec 01 14:15:52 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Dec 01 14:15:52 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Dec 01 14:15:52 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Dec 01 14:15:52 symfony [info] {sfAction} call "defaultActions->executeIndex()"
+Dec 01 14:15:52 symfony [info] {sfView} initialize view for "default/index"
+Dec 01 14:15:52 symfony [info] {sfView} render "C:\php5\pear\data/symfony/modules/default/templates/indexSuccess.php"
+Dec 01 14:15:52 symfony [info] {sfView} decorate content with "C:\php5\pear\data/symfony/modules/default/templates/defaultLayout.php"
+Dec 01 14:15:52 symfony [info] {sfView} render "C:\php5\pear\data/symfony/modules/default/templates/defaultLayout.php"
+Dec 01 14:15:52 symfony [info] {sfFilter} render to client
+Dec 01 14:15:52 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Dec 01 14:15:52 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Dec 01 14:15:52 symfony [info] {sfResponse} send content (22209 o)
+Dec 01 14:15:52 symfony [info] {sfTimerManager} Configuration 62.62 ms (11)
+Dec 01 14:15:52 symfony [info] {sfTimerManager} Action "default/index" 0.21 ms (1)
+Dec 01 14:15:52 symfony [info] {sfTimerManager} View "Success" for "default/index" 45.30 ms (1)
+Dec 01 14:34:56 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "C:\xampp\apache\bin\php.ini")
+Dec 01 14:34:56 symfony [info] {sfContext} initialization
+Dec 01 14:34:56 symfony [info] {sfController} initialization
+Dec 01 14:34:56 symfony [info] {sfRouting} match route [homepage] "/"
+Dec 01 14:34:56 symfony [info] {sfRequest} request parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 01 14:34:56 symfony [info] {sfController} dispatch request
+Dec 01 14:34:56 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Dec 01 14:34:56 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Dec 01 14:34:56 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Dec 01 14:34:56 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Dec 01 14:34:56 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Dec 01 14:34:56 symfony [info] {sfAction} call "defaultActions->executeIndex()"
+Dec 01 14:34:56 symfony [info] {sfView} initialize view for "default/index"
+Dec 01 14:34:56 symfony [info] {sfView} render "C:\php5\pear\data/symfony/modules/default/templates/indexSuccess.php"
+Dec 01 14:34:56 symfony [info] {sfView} decorate content with "C:\php5\pear\data/symfony/modules/default/templates/defaultLayout.php"
+Dec 01 14:34:56 symfony [info] {sfView} render "C:\php5\pear\data/symfony/modules/default/templates/defaultLayout.php"
+Dec 01 14:34:57 symfony [info] {sfFilter} render to client
+Dec 01 14:34:57 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Dec 01 14:34:57 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Dec 01 14:34:57 symfony [info] {sfResponse} send content (22279 o)
+Dec 01 14:34:57 symfony [info] {sfTimerManager} Configuration 56.16 ms (11)
+Dec 01 14:34:57 symfony [info] {sfTimerManager} Action "default/index" 0.16 ms (1)
+Dec 01 14:34:57 symfony [info] {sfTimerManager} View "Success" for "default/index" 44.29 ms (1)
+Dec 01 14:48:19 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "C:\xampp\apache\bin\php.ini")
+Dec 01 14:48:19 symfony [info] {sfContext} initialization
+Dec 01 14:48:19 symfony [info] {sfController} initialization
+Dec 01 14:48:19 symfony [info] {sfRouting} match route [homepage] "/"
+Dec 01 14:48:19 symfony [info] {sfRequest} request parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 01 14:48:19 symfony [info] {sfController} dispatch request
+Dec 01 14:48:19 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Dec 01 14:48:19 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Dec 01 14:48:19 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Dec 01 14:48:19 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Dec 01 14:48:19 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Dec 01 14:48:19 symfony [info] {sfAction} call "defaultActions->executeIndex()"
+Dec 01 14:48:19 symfony [info] {sfView} initialize view for "default/index"
+Dec 01 14:48:19 symfony [info] {sfView} render "C:\php5\pear\data/symfony/modules/default/templates/indexSuccess.php"
+Dec 01 14:48:19 symfony [info] {sfView} decorate content with "C:\php5\pear\data/symfony/modules/default/templates/defaultLayout.php"
+Dec 01 14:48:19 symfony [info] {sfView} render "C:\php5\pear\data/symfony/modules/default/templates/defaultLayout.php"
+Dec 01 14:48:19 symfony [info] {sfFilter} render to client
+Dec 01 14:48:19 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Dec 01 14:48:19 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Dec 01 14:48:19 symfony [info] {sfResponse} send content (22310 o)
+Dec 01 14:48:19 symfony [info] {sfTimerManager} Configuration 54.53 ms (11)
+Dec 01 14:48:19 symfony [info] {sfTimerManager} Action "default/index" 0.17 ms (1)
+Dec 01 14:48:19 symfony [info] {sfTimerManager} View "Success" for "default/index" 43.35 ms (1)
+Dec 01 14:49:51 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "C:\xampp\apache\bin\php.ini")
+Dec 01 14:49:51 symfony [info] {sfContext} initialization
+Dec 01 14:49:51 symfony [info] {sfController} initialization
+Dec 01 14:49:51 symfony [info] {sfRouting} match route [homepage] "/"
+Dec 01 14:49:51 symfony [info] {sfRequest} request parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 01 14:49:51 symfony [info] {sfController} dispatch request
+Dec 01 14:49:51 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Dec 01 14:49:51 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Dec 01 14:49:51 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Dec 01 14:49:51 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Dec 01 14:49:51 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Dec 01 14:49:51 symfony [info] {sfAction} call "defaultActions->executeIndex()"
+Dec 01 14:49:51 symfony [info] {sfView} initialize view for "default/index"
+Dec 01 14:49:51 symfony [info] {sfView} render "C:\php5\pear\data/symfony/modules/default/templates/indexSuccess.php"
+Dec 01 14:49:51 symfony [info] {sfView} decorate content with "C:\php5\pear\data/symfony/modules/default/templates/defaultLayout.php"
+Dec 01 14:49:51 symfony [info] {sfView} render "C:\php5\pear\data/symfony/modules/default/templates/defaultLayout.php"
+Dec 01 14:49:51 symfony [info] {sfFilter} render to client
+Dec 01 14:49:51 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Dec 01 14:49:51 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Dec 01 14:49:51 symfony [info] {sfResponse} send content (22279 o)
+Dec 01 14:49:51 symfony [info] {sfTimerManager} Configuration 71.37 ms (11)
+Dec 01 14:49:51 symfony [info] {sfTimerManager} Action "default/index" 0.16 ms (1)
+Dec 01 14:49:51 symfony [info] {sfTimerManager} View "Success" for "default/index" 44.89 ms (1)
+Dec 01 14:51:43 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "C:\xampp\apache\bin\php.ini")
+Dec 01 14:51:43 symfony [info] {sfContext} initialization
+Dec 01 14:51:43 symfony [info] {sfController} initialization
+Dec 01 14:51:43 symfony [info] {sfRouting} match route [homepage] "/"
+Dec 01 14:51:43 symfony [info] {sfRequest} request parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 01 14:51:43 symfony [info] {sfController} dispatch request
+Dec 01 14:51:43 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Dec 01 14:51:43 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Dec 01 14:51:43 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Dec 01 14:51:43 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Dec 01 14:51:43 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Dec 01 14:51:43 symfony [info] {sfAction} call "defaultActions->executeIndex()"
+Dec 01 14:51:43 symfony [info] {sfView} initialize view for "default/index"
+Dec 01 14:51:43 symfony [info] {sfView} render "C:\php5\pear\data/symfony/modules/default/templates/indexSuccess.php"
+Dec 01 14:51:43 symfony [info] {sfView} decorate content with "C:\php5\pear\data/symfony/modules/default/templates/defaultLayout.php"
+Dec 01 14:51:43 symfony [info] {sfView} render "C:\php5\pear\data/symfony/modules/default/templates/defaultLayout.php"
+Dec 01 14:51:43 symfony [info] {sfFilter} render to client
+Dec 01 14:51:43 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Dec 01 14:51:43 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Dec 01 14:51:43 symfony [info] {sfResponse} send content (22311 o)
+Dec 01 14:51:43 symfony [info] {sfTimerManager} Configuration 54.13 ms (11)
+Dec 01 14:51:43 symfony [info] {sfTimerManager} Action "default/index" 0.17 ms (1)
+Dec 01 14:51:43 symfony [info] {sfTimerManager} View "Success" for "default/index" 43.58 ms (1)
+Dec 01 14:51:51 symfony [warning] {sfPhpConfigHandler} php.ini "magic_quotes_gpc" key is better set to "false" (current value is "'1'" - php.ini location: "C:\xampp\apache\bin\php.ini")
+Dec 01 14:51:51 symfony [info] {sfContext} initialization
+Dec 01 14:51:51 symfony [info] {sfController} initialization
+Dec 01 14:51:51 symfony [info] {sfRouting} match route [homepage] "/"
+Dec 01 14:51:51 symfony [info] {sfRequest} request parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 01 14:51:51 symfony [info] {sfController} dispatch request
+Dec 01 14:51:51 symfony [info] {sfFilter} executing filter "sfRenderingFilter"
+Dec 01 14:51:51 symfony [info] {sfFilter} executing filter "sfWebDebugFilter"
+Dec 01 14:51:51 symfony [info] {sfFilter} executing filter "sfCommonFilter"
+Dec 01 14:51:51 symfony [info] {sfFilter} executing filter "sfFlashFilter"
+Dec 01 14:51:51 symfony [info] {sfFilter} executing filter "sfExecutionFilter"
+Dec 01 14:51:51 symfony [info] {sfAction} call "defaultActions->executeIndex()"
+Dec 01 14:51:51 symfony [info] {sfView} initialize view for "default/index"
+Dec 01 14:51:51 symfony [info] {sfView} render "C:\php5\pear\data/symfony/modules/default/templates/indexSuccess.php"
+Dec 01 14:51:51 symfony [info] {sfView} decorate content with "C:\php5\pear\data/symfony/modules/default/templates/defaultLayout.php"
+Dec 01 14:51:51 symfony [info] {sfView} render "C:\php5\pear\data/symfony/modules/default/templates/defaultLayout.php"
+Dec 01 14:51:51 symfony [info] {sfFilter} render to client
+Dec 01 14:51:51 symfony [info] {sfResponse} send status "HTTP/1.0 200 OK"
+Dec 01 14:51:51 symfony [info] {sfResponse} send header "Content-Type": "text/html; charset=utf-8"
+Dec 01 14:51:51 symfony [info] {sfResponse} send content (22311 o)
+Dec 01 14:51:51 symfony [info] {sfTimerManager} Configuration 52.43 ms (11)
+Dec 01 14:51:51 symfony [info] {sfTimerManager} Action "default/index" 0.16 ms (1)
+Dec 01 14:51:51 symfony [info] {sfTimerManager} View "Success" for "default/index" 38.50 ms (1)
