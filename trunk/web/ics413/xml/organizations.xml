@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<myisern>
+	<organizations>
+		<o_id>14</o_id>
+		<o_name>COPPE</o_name>
+		<o_type>Technology</o_type>
+		<o_contact>Guilherme Horta Trav</o_contact>
+		<o_aff_researchers>none</o_aff_researchers>
+		<o_country>Brazil</o_country>
+		<o_res_keywords>Brazil,Engineering</o_res_keywords>
+		<o_res_description>A Computer Science Program in Brazil</o_res_description>
+		<o_home_page>http://www.cos.ufrj.br/</o_home_page>
+	</organizations>
+	<organizations>
+		<o_id>12</o_id>
+		<o_name>Avaya Labs Research-</o_name>
+		<o_type>Research</o_type>
+		<o_contact>Audris Mockus</o_contact>
+		<o_aff_researchers></o_aff_researchers>
+		<o_country>USA</o_country>
+		<o_res_keywords>usa,avaya,research</o_res_keywords>
+		<o_res_description>Provides services like Product &amp; IP Support, System Integration</o_res_description>
+		<o_home_page>http://www.research.avayalabs.</o_home_page>
+	</organizations>
+	<organizations>
+		<o_id>10</o_id>
+		<o_name>University of Hawaii</o_name>
+		<o_type>Academic</o_type>
+		<o_contact>Philip Johnson</o_contact>
+		<o_aff_researchers></o_aff_researchers>
+		<o_country>USA</o_country>
+		<o_res_keywords>Software Engineering</o_res_keywords>
+		<o_res_description>The Collaborative Software Development Laboratory does research on software measurement.</o_res_description>
+		<o_home_page>http://csdl.ics.hawaii.edu</o_home_page>
+	</organizations>
+	<organizations>
+		<o_id>13</o_id>
+		<o_name>BTH</o_name>
+		<o_type>Technology</o_type>
+		<o_contact>Claes Wohlin</o_contact>
+		<o_aff_researchers>none</o_aff_researchers>
+		<o_country>Sweden</o_country>
+		<o_res_keywords>Institute,Technology</o_res_keywords>
+		<o_res_description>Institute of Technology</o_res_description>
+		<o_home_page>none</o_home_page>
+	</organizations>
+	<organizations>
+		<o_id>11</o_id>
+		<o_name>University of Maryla</o_name>
+		<o_type>Academic</o_type>
+		<o_contact>Victor Basili</o_contact>
+		<o_aff_researchers>Marvin Zelkowitz</o_aff_researchers>
+		<o_country>USA</o_country>
+		<o_res_keywords>Software Engineering</o_res_keywords>
+		<o_res_description>The University of Maryland software engineering group does great stuff.</o_res_description>
+		<o_home_page>http://cs.umd.edu/</o_home_page>
+	</organizations>
+</myisern>
