@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<myisern>
+	<collaborations>
+		<c_id>42</c_id>
+		<c_name>UMBC-NCS</c_name>
+		<c_organizations>University of Maryland Baltimore County,North Carolina State</c_organizations>
+		<c_types>Pair Programming</c_types>
+		<c_years>2006</c_years>
+		<c_outcome_types>ICSE07 Paper</c_outcome_types>
+		<c_description>Study of pedagogical benefits of pair programming among millenial students.</c_description>
+	</collaborations>
+	<collaborations>
+		<c_id>41</c_id>
+		<c_name>UMBC-USP</c_name>
+		<c_organizations>University of Maryland Baltimore County,University of Sao Paulo</c_organizations>
+		<c_types>Student Intern</c_types>
+		<c_years>2007,2008</c_years>
+		<c_outcome_types>Paper,Dissertation Proposal</c_outcome_types>
+		<c_description>Student Viviane malheiros spends 1 year in UMBC to collaborate on several ongoing projects.</c_description>
+	</collaborations>
+	<collaborations>
+		<c_id>40</c_id>
+		<c_name>BTH-UPV</c_name>
+		<c_organizations>Blekinge Institute of Technology,Universidad Politecnica de Valencia</c_organizations>
+		<c_types>Guest Lecture</c_types>
+		<c_years>2007</c_years>
+		<c_outcome_types>Guest Lecture</c_outcome_types>
+		<c_description>Guest lecture.</c_description>
+	</collaborations>
+	<collaborations>
+		<c_id>39</c_id>
+		<c_name>BTH-UO</c_name>
+		<c_organizations>Blekinge Institute of Technology,University of Oulu</c_organizations>
+		<c_types>Guest Lecture</c_types>
+		<c_years>2008</c_years>
+		<c_outcome_types>Guest Lecture</c_outcome_types>
+		<c_description>Guest lecture.</c_description>
+	</collaborations>
+	<collaborations>
+		<c_id>38</c_id>
+		<c_name>BTH-LU</c_name>
+		<c_organizations>Blekinge Institute of Technology,Lund University</c_organizations>
+		<c_types>Joint</c_types>
+		<c_years>2000,2001,2002,2003,2004,2005,2006,2007</c_years>
+		<c_outcome_types>Joint Papers,Joint Research Application</c_outcome_types>
+		<c_description>Join papers and research application.</c_description>
+	</collaborations>
+	<collaborations>
+		<c_id>37</c_id>
+		<c_name>BTH-UNSW</c_name>
+		<c_organizations>Blekinge Institute of Technology,University of New South Wales</c_organizations>
+		<c_types>Visiting Researcher</c_types>
+		<c_years>2000,2001,2002,2003,2004,2005,2006,2007</c_years>
+		<c_outcome_types>Joint Paper,Jointly Edited Books</c_outcome_types>
+		<c_description>Join paper and edited books.</c_description>
+	</collaborations>
+	<collaborations>
+		<c_id>36</c_id>
+		<c_name>BTH-UH</c_name>
+		<c_organizations>Blekinge Institute of Technology,University of Hawaii</c_organizations>
+		<c_types>Visiting Researcher</c_types>
+		<c_years>2006</c_years>
+		<c_outcome_types>Joint Papers</c_outcome_types>
+		<c_description>Joint papers with visiting researcher.</c_description>
+	</collaborations>
+	<collaborations>
+		<c_id>34</c_id>
+		<c_name>TUV-FIESE</c_name>
+		<c_organizations>Vienna University of Technology,Fraunhofer IESE</c_organizations>
+		<c_types>Data Analysis</c_types>
+		<c_years>2000,2001</c_years>
+		<c_outcome_types>Paper</c_outcome_types>
+		<c_description>Data analysis of inspection experiments.</c_description>
+	</collaborations>
+	<collaborations>
+		<c_id>35</c_id>
+		<c_name>TUV-TKK</c_name>
+		<c_organizations>Vienna University of Technology,Helsinki University of Technology</c_organizations>
+		<c_types>Tech Report</c_types>
+		<c_years>2007,2008</c_years>
+		<c_outcome_types>Tech Report</c_outcome_types>
+		<c_description>Value-based software process improvement and workshops with industry partners.</c_description>
+	</collaborations>
+	<collaborations>
+		<c_id>32</c_id>
+		<c_name>USG-VTT</c_name>
+		<c_organizations>University of Strathclyde,VTT Electronics</c_organizations>
+		<c_types>Data Collection</c_types>
+		<c_years>2007</c_years>
+		<c_outcome_types>Data for Marc's Tool Project</c_outcome_types>
+		<c_description>Experimental use of CRI tool in VTT's Global Agile Software Development Laboratory.</c_description>
+	</collaborations>
+	<collaborations>
+		<c_id>33</c_id>
+		<c_name>FIESE-TUV</c_name>
+		<c_organizations>Fraunhofer IESE,Vienna University of Technology</c_organizations>
+		<c_types>Tech Report</c_types>
+		<c_years>2007,2008</c_years>
+		<c_outcome_types>Tech Report</c_outcome_types>
+		<c_description>Tech report on balancing QA techniques.</c_description>
+	</collaborations>
+	<collaborations>
+		<c_id>31</c_id>
+		<c_name>UH-VTT</c_name>
+		<c_organizations>University of Hawaii,VTT Electronics</c_organizations>
+		<c_types>Fun</c_types>
+		<c_years>2007</c_years>
+		<c_outcome_types>Publication,Explorative Empirical Data,Many Visits to Hawaii</c_outcome_types>
+		<c_description>Experimental use of Hackystat in VTT's Global Agile Software Development Laboratory.</c_description>
+	</collaborations>
+	<collaborations>
+		<c_id>29</c_id>
+		<c_name>UM-UH-HPCS</c_name>
+		<c_organizations>University of Hawaii,University of Maryland</c_organizations>
+		<c_types>Student Intern</c_types>
+		<c_years>2006,2005</c_years>
+		<c_outcome_types>Technical Report</c_outcome_types>
+		<c_description>A graduate student at the University of Hawaii spent the summer working in the University of Maryland research group.</c_description>
+	</collaborations>
+	<collaborations>
+		<c_id>30</c_id>
+		<c_name>JAMSS-UH-FIESE-SR-NI</c_name>
+		<c_organizations>Japan Manned Space Systems Corporation,University of Hawaii,Fraunhofer IESE,Simula Research,Nara Ins</c_organizations>
+		<c_types>Space Application</c_types>
+		<c_years>2007</c_years>
+		<c_outcome_types>Space Application</c_outcome_types>
+		<c_description>Space Application</c_description>
+	</collaborations>
+</myisern>
