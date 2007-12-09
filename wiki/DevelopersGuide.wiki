@@ -4,12 +4,6 @@
 
 Following the guide for setup.
 
+= Getting Started =
 
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
-
-*Getting Started*
+*Step 1*: Download the XAMPP from http://www.apachefriends.org/download.php?xampp-win32-1.6.4.zip
