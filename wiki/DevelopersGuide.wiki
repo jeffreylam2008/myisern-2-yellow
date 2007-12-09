@@ -54,6 +54,7 @@ http://www.symfony-project.org/book/1_0/03-Running-Symfony
 {{{
 PHP_HOME
 c:\xampp\php
+Set PATH for PHP_HOME
 }}}
 
 *Step 5:* Create a VirtualHost for apache, then go to C:\xampp\apache\conf\httpd.conf and put following codes at the end of file.
