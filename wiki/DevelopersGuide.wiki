@@ -8,9 +8,9 @@ Following the guide for setup.
 
 *Download:*
 
-*XAMPP* from http://www.apachefriends.org/download.php?xampp-win32-1.6.4.zip
+*XAMPP* from "http://www.apachefriends.org/download.php?xampp-win32-1.6.4.zip"
 
-*Symfony PHP Framework* from http://www.symfony-project.org/get/symfony-stable.tgz
+*Symfony PHP Framework* from "http://www.symfony-project.org/get/symfony-stable.tgz"
 
 *Setup XAMPP:* 
 
@@ -18,4 +18,31 @@ Following the guide for setup.
 
 *Step 2:* Go to C:\xampp and double-click on "xampp-control.exe", then click Apache and MySQL start. (If both display -running-, that mean apache and MySQL is working)
 
-*Step 3:* Go to your browser and type http://localhost.
+*Step 3:* Go to your browser and type http://localhost, then you will see the XAMPP main page.
+
+*Create database password:*
+
+Go to "http://localhost/security/index.php" -> click on link "http://localhost/security/xamppsecurity.php"
+
+set MySQL password as "password", or you can set whatever you want, but you need to do configuration for myisern later, so let use password as default.
+
+*Setup Symfony*
+
+*Step 1:* Unzip the folder under XAMPP root directory i.e. C:\xampp\htdocs.
+
+*Step 2:* Create a VirtualHost for apache, then go to C:\xampp\apache\conf\httpd.conf and put following codes at the end of file.
+
+"<VirtualHost *:80>
+  ServerName myisernapp.example.com
+  DocumentRoot "C:\myisern-yellow\web"
+  DirectoryIndex index.php
+  Alias \sf C:\xampp\htdocs\sf_sandbox\web\sf
+  <Directory "/$sf_symfony_data_dir/web/sf">
+    AllowOverride All
+    Allow from All
+  </Directory>
+  <Directory "C:\myisern-yellow\web">
+    AllowOverride All
+    Allow from All
+  </Directory>
+</VirtualHost>"
