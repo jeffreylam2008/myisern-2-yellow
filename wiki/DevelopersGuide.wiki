@@ -6,4 +6,16 @@ Following the guide for setup.
 
 = Getting Started =
 
-*Step 1*: Download the XAMPP from http://www.apachefriends.org/download.php?xampp-win32-1.6.4.zip
+*Download:*
+
+*XAMPP* from http://www.apachefriends.org/download.php?xampp-win32-1.6.4.zip
+
+*Symfony PHP Framework* from http://www.symfony-project.org/get/symfony-stable.tgz
+
+*Setup XAMPP:* 
+
+*Step 1:* Unzip the folder to system directory i.e. C:\xampp (Don't put it into Program Files).
+
+*Step 2:* Go to C:\xampp and double-click on "xampp-control.exe", then click Apache and MySQL start. (If both display -running-, that mean apache and MySQL is working)
+
+*Step 3:* Go to your browser and type http://localhost.
