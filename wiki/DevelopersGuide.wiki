@@ -54,8 +54,8 @@ http://www.symfony-project.org/book/1_0/03-Running-Symfony
 {{{
 PHP_HOME
 c:\xampp\php
-Set PATH for PHP_HOME
 }}}
+Set PATH for PHP_HOME
 
 *Step 5:* Create a VirtualHost for apache, then go to C:\xampp\apache\conf\httpd.conf and put following codes at the end of file.
 
@@ -81,7 +81,7 @@ Set PATH for PHP_HOME
 == myisern-yellow Project Installation ==
 
   #Extract myisern-yellow in C:\
-  #Go to http://localhost , and you can see symfony main page.
+  # Go to http://localhost , and you can see symfony main page.
 
 *Setup Database*
 
