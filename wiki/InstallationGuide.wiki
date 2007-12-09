@@ -1,9 +1,0 @@
-= Installation =
-  * Download myisern-2-yellow.zip
-
-
-= Command line =
-
-  * ant
-  * ant -f tomcat.build.xml 
-  * This page is under construction.
