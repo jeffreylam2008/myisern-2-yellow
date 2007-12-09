@@ -1,4 +1,4 @@
-#Following the guide for setup.
+# Following the guide for setup.
 
 = Introduction =
 
