@@ -63,7 +63,7 @@ http://www.symfony-project.org/book/1_0/03-Running-Symfony
 }}}
 Set PATH for PHP_HOME
 
-*Step 5:* Create a VirtualHost for apache, then go to C:\xampp\apache\conf\httpd.conf and put following codes at the end of file.
+*Step 4:* Create a VirtualHost for apache, then go to C:\xampp\apache\conf\httpd.conf and put following codes at the end of file.
 
 {{{
 <VirtualHost *:80>
@@ -82,7 +82,7 @@ Set PATH for PHP_HOME
 </VirtualHost>
 }}}
 
-*Step 6:* Restart XAMPP by using XAMPP Control Panel.(If XAMPP cannot run properly, that mean some path is wrong or didn't exist on the code above).
+*Step 5:* Restart XAMPP by using XAMPP Control Panel.(If XAMPP cannot run properly, that mean some path is wrong or didn't exist on the code above).
 
 == myisern-yellow Project Installation ==
 
