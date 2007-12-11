@@ -80,7 +80,7 @@ Set PATH for PHP_HOME
 
 *Step 2:* Go to http://localhost/myisern2/load_database.php
 
-*Step 3:* Click on "Load Database" button. You will see "Database loaded!".
+*Step 3:* Click on "Load Database" button. You will see "Database Loaded!".
 
 == STEP 5 -> Use myisern-yellow ==
 
