@@ -33,7 +33,7 @@ set MySQL password as "password", or you can set whatever you want, but you need
 
 *Step 1:* Go to http://localhost/phpmyadmin/
 
-*Step 2:* Use Username as root, password as password to login.
+*Step 2:* Use Username as "root", password as "password" to login database.
 
 *Step 3:* Create a new table call "myisern"
 
