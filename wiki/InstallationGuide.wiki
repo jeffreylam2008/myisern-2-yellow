@@ -70,7 +70,7 @@ Set PATH for PHP_HOME
   ServerName myisernapp.example.com
   DocumentRoot "C:\myisern-yellow\web"
   DirectoryIndex index.php
-  Alias \sf C:\xampp\htdocs\sf_sandbox\web\sf
+  Alias \sf C:\php5\pear\data\symfony\web\sf
   <Directory "/$sf_symfony_data_dir/web/sf">
     AllowOverride All
     Allow from All
