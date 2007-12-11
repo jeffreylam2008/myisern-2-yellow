@@ -83,7 +83,7 @@ Set PATH for PHP_HOME
   #Extract myisern-yellow in C:\
   # Go to http://localhost , and you can see symfony main page.
 
-*Setup Database*
+== Setup Database ==
 
 *Step 1:* Go to http://localhost/phpmyadmin/
 
