@@ -6,7 +6,7 @@ Installation guide for symfony, XAMPP and Database.
 
 = Getting Started =
 
-== Download: ==
+== Download XAMPP & Symfony PHP Framework: ==
 
 *XAMPP* from "http://www.apachefriends.org/download.php?xampp-win32-1.6.4.zip"
 
