@@ -89,4 +89,4 @@ Set PATH for PHP_HOME
 == myisern-yellow Project Installation ==
 
   # Extract myisern-yellow in C:\
-  # Go to http://localhost , and you can see symfony main page.
+  # Go to http://localhost/myisern2/ , and you can see symfony main page.
