@@ -12,7 +12,7 @@ Installation guide for symfony, XAMPP and Database.
 
 *Symfony PHP Framework* from "http://www.symfony-project.org/get/symfony-stable.tgz"
 
-== Setup XAMPP: ==
+== STEP 1 -> Setup XAMPP: ==
 
 There is a great installation guide for setup symfony:
 * http://www.symfony-project.org/book/1_0/03-Running-Symfony
@@ -23,13 +23,23 @@ There is a great installation guide for setup symfony:
 
 *Step 3:* Go to your browser and type http://localhost, then you will see the XAMPP main page.
 
-== Create database password: ==
+== STEP 2 -> Create database password: ==
 
 Go to "http://localhost/security/index.php" -> click on link "http://localhost/security/xamppsecurity.php"
 
 set MySQL password as "password", or you can set whatever you want, but you need to do configuration for myisern later, so let use password as default.
 
-== Setup Symfony ==
+== STEP 3 -> Setup Database ==
+
+*Step 1:* Go to http://localhost/phpmyadmin/
+
+*Step 2:* Use Username as root, password as password to login.
+
+*Step 3:* Create a new table call "myisern"
+
+*Step 4:* Go into "myisern" -> click "import" -> "Browse" -> select \myisern-yellow\web\myisern2\sql\myisern.sql
+
+== STEP 4 -> Setup Symfony ==
 
 There is a great installation guide for setup symfony:
 http://www.symfony-project.org/book/1_0/03-Running-Symfony
@@ -52,8 +62,7 @@ http://www.symfony-project.org/book/1_0/03-Running-Symfony
 *Step 4:* Setup the environment variable:
 
 {{{
-PHP_HOME
-c:\xampp\php
+%PHP_HOME% = c:\xampp\php
 }}}
 Set PATH for PHP_HOME
 
@@ -82,13 +91,3 @@ Set PATH for PHP_HOME
 
   #Extract myisern-yellow in C:\
   # Go to http://localhost , and you can see symfony main page.
-
-== Setup Database ==
-
-*Step 1:* Go to http://localhost/phpmyadmin/
-
-*Step 2:* Use Username as root, password as password to login.
-
-*Step 3:* Create a new table call "myisern"
-
-*Step 4:* Go into "myisern" -> click "import" -> "Browse" -> select \myisern-yellow\web\myisern2\sql\myisern.sql
