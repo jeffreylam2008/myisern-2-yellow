@@ -56,9 +56,7 @@ http://www.symfony-project.org/book/1_0/03-Running-Symfony
 > symfony -V
 }}}
 
-*Step 3:* Go to the folder that you create before and right click subversion to check out this link: http://svn.symfony-project.com/tags/RELEASE_1_0_0/
-
-*Step 4:* Setup the environment variable:
+*Step 3:* Setup the environment variable:
 
 {{{
 %PHP_HOME% = c:\xampp\php
