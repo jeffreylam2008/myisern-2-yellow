@@ -49,11 +49,10 @@ http://www.symfony-project.org/book/1_0/03-Running-Symfony
 *Step 2:* Do following command line:
 
 {{{
-\\ check symfony server is available
 > pear channel-discover pear.symfony-project.com
-\\ Install symfony batch file on \xampp\php
+
 > pear install symfony/symfony
-\\ Check symfony version
+
 > symfony -V
 }}}
 
