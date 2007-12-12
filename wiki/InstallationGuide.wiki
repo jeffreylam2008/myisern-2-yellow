@@ -29,7 +29,19 @@ Go to "http://localhost/security/index.php" -> click on link "http://localhost/s
 
 set MySQL password as "password", or you can set whatever you want, but you need to do configuration for myisern later, so let use password as default.
 
-== STEP 3 -> Setup Symfony ==
+== STEP 3 -> Setup Database ==
+
+*Step 1:* Extract myisern-yellow in C:\
+
+*Step 2:* Go to http://localhost/phpmyadmin
+
+*Step 3:* Login username as "root" & password as "password".
+
+*Step 4:* Go "Import" -> "Browse" -> c:\myisern-yellow\web\myisern2\sql\myisern.sql, then click "Go".
+
+You already inserted the database. Next go to install setup Symfony.
+
+== STEP 4 -> Setup Symfony ==
 
 There is a great installation guide for setup symfony:
 http://www.symfony-project.org/book/1_0/03-Running-Symfony
@@ -73,14 +85,6 @@ Set PATH for PHP_HOME
 }}}
 
 *Step 5:* Restart XAMPP by using XAMPP Control Panel.(If XAMPP cannot run properly, that mean some path is wrong or didn't exist on the code above).
-
-== STEP 4 -> Setup Database ==
-
-*Step 1:* Extract myisern-yellow in C:\
-
-*Step 2:* Go to http://localhost/myisern2/load_database.php
-
-*Step 3:* Click on "Load Database" button. You will see "Database Loaded!".
 
 == STEP 5 -> Use myisern-yellow ==
 
