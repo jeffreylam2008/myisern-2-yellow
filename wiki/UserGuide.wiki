@@ -7,7 +7,7 @@ Help user success to use Myisern system.
 
 == Login ==
 
-  *Login Page is the first page of Myisern 2.0 that user must go this page to logon before use the system. That's mean if user does not logon, then they cannot access any other pages. Also, the system have count time session, once logon session gone, user may need to re-login again.
+  * Login Page is the first page of Myisern 2.0 that user must go this page to logon before use the system. That's mean if user does not logon, then they cannot access any other pages. Also, the system have count time session, once logon session gone, user may need to re-login again.
 
 
 == Switch Type ==
