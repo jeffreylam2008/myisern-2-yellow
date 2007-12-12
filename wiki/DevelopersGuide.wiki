@@ -1,4 +1,4 @@
-== Setup XAMPP ==
+[http://code.google.com/p/myisern-2-yellow/wiki/InstallationGuide Setup XAMPP]
   
   
 == Create Database ==
