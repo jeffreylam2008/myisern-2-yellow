@@ -1,0 +1,6 @@
+== Setup XAMPP ==
+  
+  
+== Create Database ==
+
+  # Go 
