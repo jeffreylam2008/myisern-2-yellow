@@ -1,0 +1,6 @@
+INSERT INTO `organizations` (`o_id`, `o_name`, `o_type`, `o_contact`, `o_aff_researchers`, `o_country`, `o_res_keywords`, `o_res_description`, `o_home_page`) VALUES
+(14, 'COPPE', 'Technology', 'Guilherme Horta Trav', 'none', 'Brazil', 'Brazil,Engineering', 'A Computer Science Program in Brazil', 'http://www.cos.ufrj.br/'),
+(12, 'Avaya Labs Research-', 'Research', 'Audris Mockus', '', 'USA', 'usa,avaya,research', 'Provides services like Product &amp; IP Support, System Integration', 'http://www.research.avayalabs.'),
+(10, 'University of Hawaii', 'Academic', 'Philip Johnson', '', 'USA', 'Software Engineering', 'The Collaborative Software Development Laboratory does research on software measurement.', 'http://csdl.ics.hawaii.edu'),
+(13, 'BTH', 'Technology', 'Claes Wohlin', 'none', 'Sweden', 'Institute,Technology', 'Institute of Technology', 'none'),
+(11, 'University of Maryla', 'Academic', 'Victor Basili', 'Marvin Zelkowitz', 'USA', 'Software Engineering', 'The University of Maryland software engineering group does great stuff.', 'http://cs.umd.edu/');
