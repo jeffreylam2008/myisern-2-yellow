@@ -84,7 +84,7 @@ Set PATH for PHP_HOME
 
 == STEP 5 -> Use myisern-yellow ==
 
-  # Go to http://localhost/myisern2/.
+  # Go to http://127.0.0.1/myisern2/.
   # Enter username "demo".
   # Enter password "demo".
 
