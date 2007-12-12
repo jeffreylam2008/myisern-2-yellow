@@ -43,3 +43,28 @@ CREATE TABLE `researchers` (
 ) ENGINE=MyISAM  DEFAULT CHARSET=latin1 COLLATE=latin1_general_ci AUTO_INCREMENT=10 ;
 }}}
 
+== Javascript ==
+
+  * We add some javascript for "Select All" and create a new window for edit page.
+
+== SQL statement ==
+
+  * we use SQL statement to populate data for each type. Also use SQL statement for add, edit, and delete.
+
+== process.php page ==
+
+  * This page carry each single action from add, edit and delete page. 
+
+== db_conn.php page ==
+
+{{{
+$DB_HOST	= "localhost";
+$DB_LOGIN	= "username";  // type in MySQL username
+$DB_PASSWORD	= "password";  // type in MySQL password
+$DB_NAME	= "myisern";   // type in Database name here
+	
+$conn = mysql_connect($DB_HOST, $DB_LOGIN, $DB_PASSWORD);
+mysql_select_db($DB_NAME);
+}}}
+
+  * The developer can configure this page for connection between MySQL database to Myisern system.
