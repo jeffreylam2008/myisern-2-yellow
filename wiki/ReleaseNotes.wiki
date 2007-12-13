@@ -2,7 +2,7 @@
 
 = Introduction =
   * Isern, the International Software Engineering Research Network.
-  * Myisern-2.0 is developed by using PHP and Symfony framwork.
+  * Myisern-2.0 is developed by using PHP and Symfony framework.
 
 = Features =
   * Researchers
